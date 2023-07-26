@@ -1,13 +1,23 @@
 {
   "name": "formatnumber-to-naira",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "dist/formatPrice.js",
   "types": "dist/formatPrice.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josephe44/formatnumber-to-naira.git"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "formatter",
+    "Naira"
+  ],
+  "readme": "README.md",
   "author": "josephe44 and balmOfCodes",
   "license": "MIT",
   "devDependencies": {
