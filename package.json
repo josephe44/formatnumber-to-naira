@@ -1,0 +1,16 @@
+{
+  "name": "formatnumber-to-naira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/formatPrice.js",
+  "types": "dist/formatPrice.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "josephe44 and balmOfCodes",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
