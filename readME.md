@@ -1,6 +1,6 @@
 # formatnumber-to-naira
 
-[![npm version](https://badge.fury.io/js/my-npm-package.svg)](https://badge.fury.io/js/my-npm-package)
+[![npm version](https://badge.fury.io/js/my-npm-package.svg)](https://www.npmjs.com/package/formatnumber-to-naira)
 
 ## Description
 
