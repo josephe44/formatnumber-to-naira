@@ -1,10 +1,10 @@
-# format-number-to-naira
+# formatnumber-to-naira
 
 [![npm version](https://badge.fury.io/js/my-npm-package.svg)](https://badge.fury.io/js/my-npm-package)
 
 ## Description
 
-format-number-to-naira is an utility function that formats a given number into Nigeria's currency (NGN) format.
+formatnumber-to-naira is a utility that formats a given number into Nigeria's currency (NGN) format.
 
 ## Installation
 
