@@ -1,6 +1,6 @@
 {
   "name": "formatnumber-to-naira",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/formatPrice.js",
   "types": "dist/formatPrice.d.ts",
