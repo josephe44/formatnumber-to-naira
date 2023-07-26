@@ -4,7 +4,7 @@
 
 ## Description
 
-format-number-to-naira is a utility that formats a given number into Nigeria's currency (NGN) format.
+format-number-to-naira is an utility function that formats a given number into Nigeria's currency (NGN) format.
 
 ## Installation
 
