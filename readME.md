@@ -16,6 +16,23 @@ npm install formatnumber-to-naira
 
 ## Usage
 
+### New way
+
+- from version 2.0.0
+
+```javaScript
+
+import { formatPrice } from 'formatnumber-to-naira';
+
+const price = 1234567.89;
+const formattedPrice = formatPrice(price);
+console.log(formattedPrice); // Output: "₦1,234,567.89"
+```
+
+### Old way
+
+- from version 1.0.0 to 1.0.7
+
 ```javaScript
 import formatPrice from 'formatnumber-to-naira';
 
